@@ -2,7 +2,7 @@
 
 This is gonna be an app made for a no-profit revolution. Stay tuned.
 
-### Usage
+## Usage
 
 To get started:
 
